@@ -1,0 +1,36 @@
+.tanArea{
+    background-color: tan;
+}
+
+body{
+    background-color: teal;
+}
+
+
+.triviaHeadingDiv{
+    text-align: center;
+}
+
+.timeRemainingDiv{
+    text-align: center;
+}
+
+.questionDiv{
+    text-align: center;
+}
+
+.answerOneDiv {
+    text-align: center;
+}
+
+.answerTwoDiv {
+    text-align: center;
+}
+
+.answerThreeDiv {
+    text-align: center;
+}
+
+.answerFourDiv {
+    text-align: center;
+}

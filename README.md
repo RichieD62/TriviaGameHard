@@ -1,1 +1,1 @@
-# TriviaGameHard
+# TriviaGame
